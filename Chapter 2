@@ -1,7 +1,7 @@
 ===========
 Objectives 
 ===========
-•Describe Ansible inventory concepts and manage a static inventory file.
+• Describe Ansible inventory concepts and manage a static inventory file.
 • Describe where Ansible configuration files are located, how Ansible selects them, and edit them to apply changes to default settings.
 • Run a single Ansible automation task using an ad hoc command and explain some use cases for ad hoc commands.
 
